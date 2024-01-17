@@ -8,7 +8,7 @@ Central pattern generator(CPG)のモデルとしてMatsuoka neural oscillatorは
 - Build 
 
 ```sh
-git clone https://github.com/dofuman/cpg.git
+git clone https://github.com/shinjimori/cpg.git
 mkdir build && cd build
 cmake ..
 make
